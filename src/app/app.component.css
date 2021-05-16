@@ -1,0 +1,50 @@
+.floatRight{
+  float: right;
+}
+
+.floatLeft{
+  float: left;
+}
+
+.logo{
+  width: auto;
+  height: 125px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+.siteHeader{
+  margin:0 10vw;
+  padding:5vw 0;
+}
+
+.body{
+  width: auto;
+  height: 125px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 11px;
+  margin:0 10vw;
+}
+.mainNav{
+  padding:1vw 0;
+  font-size: 16px;
+}
+
+.mainNav a{
+  padding: 0 3px;
+
+}
+.logoText{
+  font-size: 20px;
+}
+
+.mainNav a, .logoText{
+  font-family: 'Josefin Sans', sans-serif;
+  text-decoration: none;
+  color:black;
+}
+
+.mainNav a, .logoText:visited{
+  color:black;
+}
